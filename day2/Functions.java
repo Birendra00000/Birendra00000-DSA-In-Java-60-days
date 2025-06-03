@@ -46,5 +46,4 @@ calculateFactorial(factorial);
 
 
 
-Funtion to add two numbers
 
